@@ -9,12 +9,12 @@ Try it out [here](https://portfolio-sid.github.io/sorting-visualizer/)!!!
     1. New Array Generation: Generates a new array with random values.
     2. Array Size Control: Adjusts the size of the array for visualization.
     3. Sorting Speed Control: Adjusts the speed of the sorting animation.
-    4. Sorting Algorithms: Supports visualization of the following sorting algorithms:
-                           Bubble Sort
-                           Selection Sort
-                           Insertion Sort
-                           Quick Sort
-                           Merge Sort
+    4. Supports visualization of the following sorting algorithms:
+      - Bubble Sort
+      - Selection Sort
+      - Insertion Sort
+      - Quick Sort
+      - Merge Sort
 
 ### Technologies Used
 
