@@ -2,7 +2,7 @@
 
 This project implements a Sorting Visualizer using HTML, CSS, and JavaScript. It allows users to visualize various sorting algorithms on randomly generated arrays.
 
-Try it out [here](https://portfolio-sid.github.io/sorting-visualizer/)!!!
+Try it out [here](https://portfolio-sid.github.io/sorting-visualizer/) !!!
 
 ### Features
 
